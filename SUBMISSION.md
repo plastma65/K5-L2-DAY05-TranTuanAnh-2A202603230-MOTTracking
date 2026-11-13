@@ -86,4 +86,4 @@ Lệnh chỉ được in ra các ảnh chụp màn hình trong `report/individua
 - [x] Có 3 ảnh đoạn bị che trong `report/individual/images/` và đã chèn vào báo cáo.
 - [x] Job trên CVAT máy cá nhân đã chuyển sang **completed**.
 - [x] Không commit ảnh / video / `gt.txt` gốc của MOT17, không commit `.env` hay mật khẩu.
-- [ ] Đã nộp link repo trên LMS trước 23:59 GMT+7 ngày lab.
+- [x] Đã nộp link repo trên LMS trước 23:59 GMT+7 ngày lab.
