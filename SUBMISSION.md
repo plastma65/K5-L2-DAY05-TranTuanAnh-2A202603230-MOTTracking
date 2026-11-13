@@ -79,11 +79,11 @@ Lệnh chỉ được in ra các ảnh chụp màn hình trong `report/individua
 
 ## Checklist
 
-- [ ] Repo đặt đúng tên `K5-L2-DAY05-HoVaTen-MSSV-MOTTracking`.
-- [ ] Có `src/exports/HoVaTen_mot.zip` (MOT 1.1) và `src/exports/HoVaTen_cvat_video.zip` (CVAT for video 1.1), cả hai không kèm ảnh.
-- [ ] Script tự kiểm báo 5 track ID, không có `[LỖI]`; đã dán kết quả vào báo cáo mục 5.
-- [ ] Báo cáo đã đổi tên thành `MSSV_HoTen.md` và điền đủ mục 1–6.
-- [ ] Có 3 ảnh đoạn bị che trong `report/individual/images/` và đã chèn vào báo cáo.
-- [ ] Job trên CVAT máy cá nhân đã chuyển sang **completed**.
-- [ ] Không commit ảnh / video / `gt.txt` gốc của MOT17, không commit `.env` hay mật khẩu.
+- [x] Repo đặt đúng tên `K5-L2-DAY05-HoVaTen-MSSV-MOTTracking`.
+- [x] Có `src/exports/HoVaTen_mot.zip` (MOT 1.1) và `src/exports/HoVaTen_cvat_video.zip` (CVAT for video 1.1), cả hai không kèm ảnh.
+- [x] Script tự kiểm báo 5 track ID, không có `[LỖI]`; đã dán kết quả vào báo cáo mục 5.
+- [x] Báo cáo đã đổi tên thành `MSSV_HoTen.md` và điền đủ mục 1–6.
+- [x] Có 3 ảnh đoạn bị che trong `report/individual/images/` và đã chèn vào báo cáo.
+- [x] Job trên CVAT máy cá nhân đã chuyển sang **completed**.
+- [x] Không commit ảnh / video / `gt.txt` gốc của MOT17, không commit `.env` hay mật khẩu.
 - [ ] Đã nộp link repo trên LMS trước 23:59 GMT+7 ngày lab.
